@@ -48,3 +48,12 @@ setup
 This document outlines the core functionality and business case for the project. The
 implementation should focus on efficiency, scalability, and clean code, while adhering to the
 given time constraints.
+
+Follow the instructions in the starter project’s README.md to run the script that creates the zip file for submission.
+Test your ZIP file before submitting to ensure it includes all necessary files.
+📌 Your Video Documentation
+
+Record a video (recommended 5-10 minutes) with a short screen share and your voice-over explanation of -
+How you leveraged AI tools (Cursor, Claude, etc.) to assist in development
+Your prompting techniques and AI-assisted development workflow
+The challenges you faced and how you overcame them
